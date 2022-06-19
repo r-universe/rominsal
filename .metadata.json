@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pspatreg",
+    "oncran": true
+  },
+  {
+    "package": "spsur",
+    "oncran": true
+  }
+]
