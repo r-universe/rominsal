@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pspatreg"]
 	path = pspatreg
 	url = https://github.com/rominsal/pspatreg
-	shallow = true
-	registered = true
 [submodule "spsur"]
 	path = spsur
 	url = https://github.com/rominsal/spsur
-	shallow = true
-	registered = true
